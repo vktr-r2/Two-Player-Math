@@ -178,8 +178,8 @@ This keeps the Player and Question classes focused on their own logic.
 # end
 
 
-# Create new Game object
-new_game = Game.new
-# Call .play_game method to trigger start
-new_game.play_game
+# # Create new Game object
+# new_game = Game.new
+# # Call .play_game method to trigger start
+# new_game.play_game
 
